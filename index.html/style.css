@@ -1,0 +1,30 @@
+img {
+    text-align: center;
+    width: 400px;
+    border: 20cap;
+    border-style: groove;
+    border-color: rgb(70, 47, 64);
+    border-width: 0.2cm;
+    margin: auto;
+    display: block;
+    
+
+}
+h1 {
+    text-align: center;
+    color: rgb(255, 3, 3);
+    font-family: "impact";
+}
+p {
+    ;
+    font-family: "georgia";
+    text-align: center;
+    text-shadow: 2x 4x 5x #eee, 0 0 1px black;
+}
+html {
+    background-color: rgb(246, 233, 218);
+}
+a {
+    text-align: center;
+    text-decoration: none;
+}
